@@ -1,0 +1,13 @@
+C:\Users\Dylan\Desktop\Work\Programming\bingo\bin\Debug\netcoreapp3.1\bingo.exe
+C:\Users\Dylan\Desktop\Work\Programming\bingo\bin\Debug\netcoreapp3.1\bingo.deps.json
+C:\Users\Dylan\Desktop\Work\Programming\bingo\bin\Debug\netcoreapp3.1\bingo.runtimeconfig.json
+C:\Users\Dylan\Desktop\Work\Programming\bingo\bin\Debug\netcoreapp3.1\bingo.runtimeconfig.dev.json
+C:\Users\Dylan\Desktop\Work\Programming\bingo\bin\Debug\netcoreapp3.1\bingo.dll
+C:\Users\Dylan\Desktop\Work\Programming\bingo\bin\Debug\netcoreapp3.1\bingo.pdb
+C:\Users\Dylan\Desktop\Work\Programming\bingo\obj\Debug\netcoreapp3.1\bingo.csprojAssemblyReference.cache
+C:\Users\Dylan\Desktop\Work\Programming\bingo\obj\Debug\netcoreapp3.1\bingo.AssemblyInfoInputs.cache
+C:\Users\Dylan\Desktop\Work\Programming\bingo\obj\Debug\netcoreapp3.1\bingo.AssemblyInfo.cs
+C:\Users\Dylan\Desktop\Work\Programming\bingo\obj\Debug\netcoreapp3.1\bingo.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\Work\Programming\bingo\obj\Debug\netcoreapp3.1\bingo.dll
+C:\Users\Dylan\Desktop\Work\Programming\bingo\obj\Debug\netcoreapp3.1\bingo.pdb
+C:\Users\Dylan\Desktop\Work\Programming\bingo\obj\Debug\netcoreapp3.1\bingo.genruntimeconfig.cache
